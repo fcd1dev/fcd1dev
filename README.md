@@ -1,6 +1,7 @@
 ## Code
 
 ### Columbia University Repos
+*Contributions/Commits to the following will show up as fcd1, the github account used for CUL work*
 - https://github.com/cul/clio-spectrum
 - https://github.com/cul/ldpd-sword
 - https://github.com/cul/ldpd-amesa
