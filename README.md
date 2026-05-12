@@ -10,3 +10,6 @@
 - https://github.com/cul/ldpd-hours
 - https://github.com/cul/ldpd-findingaids
 - https://github.com/cul/ldpd-biggert
+
+### fcd1 Repos
+- https://github.com/fcd1/manage-datacite-dois-python
