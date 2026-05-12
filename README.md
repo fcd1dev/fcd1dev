@@ -13,3 +13,4 @@
 
 ### fcd1 Repos
 - https://github.com/fcd1/manage-datacite-dois-python
+- https://github.com/fcd1/remediate-filepaths-python
